@@ -11,8 +11,8 @@
   "magisk": {
     "version": "17.3",
     "versionCode": "17300",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v17.3/Magisk-v17.3.zip",
+    "link": "https://github.com/kvnkmth/magisk_files/blob/master/Magisk-v18.3.zip?raw=true",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/5cc0b88d76f4fc7cd1145789b8ae639e42db685e/notes.md",
-    "md5": "ae7b10d97f0ffd640eaba00c83699596"
+    "md5": "7cc352a7109a306ad92ce03dc506eb5a"
   }
 }
